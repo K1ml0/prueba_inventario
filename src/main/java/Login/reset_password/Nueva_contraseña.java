@@ -3,7 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  */
 
-package Login;
+package Login.reset_password;
 //ventana para crear la nueva contraseña usuario
 /**
  *
