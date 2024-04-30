@@ -42,7 +42,7 @@ public class EnviarCorreo {
     public static Timer timer;
     // Configuración del servidor SMTP de Gmail
     private static String username = "programasalzate005@gmail.com"; // Gmail de la empresa
-    private static String password = ""; // contraseña de Gmail de la empresa
+    private static String password = "jtvk jgnt zcbi "; // contraseña de Gmail de la empresa
     public static String destinatario ="jd.alzate29@ciaf.edu.co";//Remplazar y crear la base de datos
     private static String asunto = "Recuperacion de cuenta";
     public static String token = "";
