@@ -15,7 +15,7 @@ import ventanaPrincipal.VentanaPrincipal;
  * @author juand
  */
 public class main {
-    public static boolean usuario_registrado = false;//aun no hay un administrador registrado
+    public static boolean usuario_registrado = true;//aun no hay un administrador registrado
     public static void main(String[] args) {
         if(usuario_registrado){
             VentanaPrincipal.main(args);//iniciar ventana principal
