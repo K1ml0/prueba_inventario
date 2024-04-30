@@ -13,7 +13,7 @@ public class Nueva_contraseña extends javax.swing.JFrame {
 
     /** Creates new form Nueva_contraseña */
     public Nueva_contraseña() {
-   
+        setLocationRelativeTo(null);
         initComponents();
     }
 
