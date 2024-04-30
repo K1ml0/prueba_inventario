@@ -4,7 +4,7 @@
  */
 
 package Login;
-//ventana para crear la nueva contraseña
+//ventana para crear la nueva contraseña usuario
 /**
  *
  * @author juan
